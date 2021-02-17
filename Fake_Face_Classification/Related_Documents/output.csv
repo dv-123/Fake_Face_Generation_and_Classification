@@ -1,0 +1,13 @@
+Image_Name,Predected_Label
+i10.jpg,Other Object
+i12.jpg,Fake Face
+i2.png,Fake Face
+i5.jpg,Real Face
+i7.jpg,Real Face
+i9.jpg,Other Object
+i8.jpg,Other Object
+i3.jpg,Real Face
+i1.webp,Real Face
+i11.webp,Fake Face
+i4.webp,Real Face
+i6.webp,Real Face

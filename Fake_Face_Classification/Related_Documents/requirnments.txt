@@ -1,0 +1,4 @@
+the requirments for testing the code file are:
+1. required files of trained models and harrcascade provided in folder itself.
+2. goolgle colab.
+3. for training purpose, we require the dataset, link provided in instructions.txt.

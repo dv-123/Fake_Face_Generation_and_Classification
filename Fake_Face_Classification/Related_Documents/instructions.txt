@@ -1,0 +1,23 @@
+There are two files of the same code in in this folder one is a python 
+file and another is a ipython notebook. we can test the same code by 
+running the ipython notebook on google cloab. The instructions for 
+running and testing the code is given below.
+ 
+1. Open the ipython notebook in google colab.
+2. run the importing libraries code line.
+
+Note: the training and the testing codes are included in the same notebook
+following are the instructions for testing them both.
+
+# for training the models:
+1. mount the google drive where the data is uploaded by running first line of the code in "Model Training" Section.
+2. add the path where you have stored the data in the drive for training and testing purpose.
+Note: I have downloaded the data for training the model form the following link of "kaggle".
+https://www.kaggle.com/ciplab/real-and-fake-face-detection
+3. run the consicutive codes for training and saving the models which are also given in the file itself.
+
+# for testing the model:
+1. upload the model named "Fake_Face_Detector_improved.h5" and "haarcascade_frontalface_default.xml" to the currently running ipython notebook.
+2. now start running code lines in the Section named "Model Testing" for testing the designed code for testing the whole models and the 
+   classification code for the provided images into the categories stated in the guidelines.
+3. run the last two lines for code if you want to generate the output.csv file.
